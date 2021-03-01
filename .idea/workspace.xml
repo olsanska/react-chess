@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56a62721-6b25-4018-ac4a-d5d8ef0833e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/chess.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ui/Board.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ui/BoardSquare.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ui/Piece.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ui/Promote.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ui/Square.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/b_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/b_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/k_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/k_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/n_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/n_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/p_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/p_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/q_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/q_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/r_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/r_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="starter" />
+                    <option name="lastUsedInstant" value="1609269629" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1609269628" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mKPFpwjZ2jOJqRq5vjep5pthtF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chess/ui" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56a62721-6b25-4018-ac4a-d5d8ef0833e2" name="Default Changelist" comment="" />
+      <created>1609239208996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609239208996</updated>
+      <workItem from="1609239210914" duration="780000" />
+      <workItem from="1609418942707" duration="179000" />
+      <workItem from="1609513539665" duration="15905000" />
+      <workItem from="1609544017127" duration="3000" />
+      <workItem from="1609600069875" duration="8403000" />
+      <workItem from="1609719427869" duration="2050000" />
+      <workItem from="1609765874119" duration="2354000" />
+      <workItem from="1614297903580" duration="69000" />
+      <workItem from="1614596229226" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="112" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1609533545777">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="464" y="112" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1050/-553.-1440.2560.1440@0.0.1680.1050" timestamp="1609533545777" />
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609419002527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1609419002527" />
+    <state width="1638" height="290" key="GridCell.Tab.0.bottom" timestamp="1609449297011">
+      <screen x="0" y="25" width="1680" height="974" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1609419005582" />
+    <state width="1638" height="290" key="GridCell.Tab.0.bottom/0.25.1680.974@0.25.1680.974" timestamp="1609449297011" />
+    <state width="1638" height="290" key="GridCell.Tab.0.center" timestamp="1609449297010">
+      <screen x="0" y="25" width="1680" height="974" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1609419005581" />
+    <state width="1638" height="290" key="GridCell.Tab.0.center/0.25.1680.974@0.25.1680.974" timestamp="1609449297010" />
+    <state width="1638" height="290" key="GridCell.Tab.0.left" timestamp="1609449297010">
+      <screen x="0" y="25" width="1680" height="974" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1609419005580" />
+    <state width="1638" height="290" key="GridCell.Tab.0.left/0.25.1680.974@0.25.1680.974" timestamp="1609449297010" />
+    <state width="1638" height="290" key="GridCell.Tab.0.right" timestamp="1609449297011">
+      <screen x="0" y="25" width="1680" height="974" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609419005581" />
+    <state width="1638" height="290" key="GridCell.Tab.0.right/0.25.1680.974@0.25.1680.974" timestamp="1609449297011" />
+    <state x="-553" y="-1025" width="1680" height="974" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609515671831">
+      <screen x="-553" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="-553" y="-1025" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050/-553.-1440.2560.1440@-553.-1415.2560.1415" timestamp="1609515671705" />
+    <state width="1680" height="974" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1680.974/-553.-1415.2560.1415@-553.-1415.2560.1415" timestamp="1609515671831" />
+    <state x="505" y="254" width="670" height="676" key="search.everywhere.popup" timestamp="1614297913097">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="254" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1614297913097" />
+  </component>
+</project>
