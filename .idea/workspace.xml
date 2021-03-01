@@ -20,29 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a62721-6b25-4018-ac4a-d5d8ef0833e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/chess.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ui/Board.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ui/BoardSquare.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ui/Piece.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ui/Promote.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ui/Square.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/b_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/b_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/k_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/k_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/n_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/n_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/p_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/p_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/q_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/q_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/r_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/r_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +40,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="starter" />
-                    <option name="lastUsedInstant" value="1609269629" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1614596416" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -120,7 +98,7 @@
       <workItem from="1609719427869" duration="2050000" />
       <workItem from="1609765874119" duration="2354000" />
       <workItem from="1614297903580" duration="69000" />
-      <workItem from="1614596229226" duration="84000" />
+      <workItem from="1614596229226" duration="516000" />
     </task>
     <servers />
   </component>

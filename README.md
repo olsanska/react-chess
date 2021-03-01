@@ -1,3 +1,3 @@
 # React chess
 
-Starter code for the tutorial of building a chess application with react
+Work in progress. Inspired by an online tutorial, keep adding my own features.
